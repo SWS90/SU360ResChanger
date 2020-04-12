@@ -1,0 +1,9 @@
+C:\Users\Ben\Desktop\GitHub\SU360ResChanger\bin\SU360XexTool.exe.config
+C:\Users\Ben\Desktop\GitHub\SU360ResChanger\bin\SU360XexTool.exe
+C:\Users\Ben\Desktop\GitHub\SU360ResChanger\bin\SU360XexTool.pdb
+C:\Users\Ben\Desktop\GitHub\SU360ResChanger\obj\Debug\SU360XexTool.Form1.resources
+C:\Users\Ben\Desktop\GitHub\SU360ResChanger\obj\Debug\SU360XexTool.Properties.Resources.resources
+C:\Users\Ben\Desktop\GitHub\SU360ResChanger\obj\Debug\SU360XexTool.csproj.GenerateResource.cache
+C:\Users\Ben\Desktop\GitHub\SU360ResChanger\obj\Debug\SU360XexTool.csproj.CopyComplete
+C:\Users\Ben\Desktop\GitHub\SU360ResChanger\obj\Debug\SU360XexTool.exe
+C:\Users\Ben\Desktop\GitHub\SU360ResChanger\obj\Debug\SU360XexTool.pdb
